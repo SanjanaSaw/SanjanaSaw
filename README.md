@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sanjanaasaw@gmail.com**
 
-- ⚡ Fun fact **I’m fueled by curiosity and caffeine! When I'm not coding up solutions, I’m likely learning something new, solving a problem, or figuring out how to make tech a bit more awesome. ☕💻**
+- ⚡ **Fun fact I’m fueled by curiosity and caffeine! When I'm not coding up solutions, I’m likely learning something new, solving a problem, or figuring out how to make tech a bit more awesome. ☕💻**
   <br/>
   
 ## Connect with me:
