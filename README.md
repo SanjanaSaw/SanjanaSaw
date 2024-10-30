@@ -44,8 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjanasaw&show_icons=true&locale=en" alt="sanjanasaw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanasaw&" alt="sanjanasaw" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sanjanasaw&border_radius=10" alt="GitHub Streak" /></a>
 
 <!--
 **SanjanaSaw/SanjanaSaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
