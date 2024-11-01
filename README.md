@@ -38,6 +38,12 @@
 
 <br/>  
 
+<h3 align="left">Digital Holopin Badges</h3>
+
+
+[![An image of @sanjanasaw's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanjanasaw)](https://holopin.io/@sanjanasaw)
+
+
 ## Github Stats  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanasaw&layout=compact" alt="sanjanasaw" /></p>
