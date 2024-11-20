@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **MERN, Frontend development, Data Analysis**
+- 💬 Ask me about **MERN, Frontend development, UI/UX designing, Data Analysis**
 
 - 📫 How to reach me **sanjanaasaw@gmail.com**
 
